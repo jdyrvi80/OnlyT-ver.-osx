@@ -131,7 +131,3 @@ Packaging/           Info.plist e icona
 Scripts/build_app.sh crea OnlyT.app
 Tests/               test della logica (porting dei test originali)
 ```
-
-## Licenza
-OnlyT © 2018–2026 Antony Corbett e collaboratori, licenza MIT (vedi `LICENSE-OnlyT-original.txt`).
-Questa versione per macOS è un porting basato sul codice sorgente della 2.5.0.10.
